@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m py_compile \"/Users/pabloinfante/Desktop/MBDS/Term 2/Python 2/Group Assignment/trading-system/src/model.py\")",
+      "Bash(python3 -m py_compile \"/Users/pabloinfante/Desktop/MBDS/Term 2/Python 2/Group Assignment/trading-system/src/strategy.py\")",
+      "Bash(python3 -m py_compile \"/Users/pabloinfante/Desktop/MBDS/Term 2/Python 2/Group Assignment/trading-system/src/pysimfin.py\")"
+    ]
+  }
+}
