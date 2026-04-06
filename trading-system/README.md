@@ -6,7 +6,7 @@ An automated daily trading system that uses machine learning to predict stock ma
 
 **Master of Business Analytics and Data Science, IE School of Science and Technology**
 
-- Selim El Khoury, Jan Wilhelm Pietsch, Nuria Etemadi, Tenaw Belete, Pablo Infante
+- **Pablo Infante** (primary developer) · Jan Wilhelm Pietsch, Nuria Etemadi, Tenaw Belete
 
 ## 🌐 Live Application
 
@@ -50,7 +50,7 @@ trading-system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/selkhoury911-ui/trading-system.git
+git clone https://github.com/pabloinfante00-art/automated-trading-system.git
 cd trading-system
 ```
 
