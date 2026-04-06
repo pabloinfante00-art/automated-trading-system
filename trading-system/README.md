@@ -6,7 +6,7 @@ An automated daily trading system that uses machine learning to predict stock ma
 
 **Master of Business Analytics and Data Science, IE School of Science and Technology**
 
-- **Pablo Infante** (primary developer) · Jan Wilhelm Pietsch, Nuria Etemadi, Tenaw Belete
+- **Pablo Infante**
 
 ## 🌐 Live Application
 
