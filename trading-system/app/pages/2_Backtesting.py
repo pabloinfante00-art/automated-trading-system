@@ -14,7 +14,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."
 from strategy import buy_and_sell_strategy, buy_and_hold_baseline, calculate_performance_metrics
 from etl import FEATURE_COLUMNS  # single source of truth — never hardcode here
 
-st.set_page_config(page_title="Backtesting", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Backtesting", page_icon="📊", layout="wide", initial_sidebar_state="expanded")
 
 # ---------------------------------------------------------------------------
 # BLOOMBERG CSS

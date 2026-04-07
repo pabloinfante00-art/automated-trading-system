@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
 from pysimfin import PySimFin
 from etl import FEATURE_COLUMNS, transform
 
-st.set_page_config(page_title="Go Live", page_icon="🚀", layout="wide")
+st.set_page_config(page_title="Go Live", page_icon="🚀", layout="wide", initial_sidebar_state="expanded")
 
 # ---------------------------------------------------------------------------
 # BLOOMBERG CSS (matches Home.py and Backtesting.py)
