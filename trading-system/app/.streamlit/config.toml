@@ -1,0 +1,8 @@
+[ui]
+hideSidebarNavigation = false
+
+[client]
+showSidebarNavigation = true
+
+[server]
+headless = true
