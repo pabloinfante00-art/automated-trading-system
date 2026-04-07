@@ -9,7 +9,7 @@ An automated daily trading system that uses machine learning to predict stock ma
 
 ## 🌐 Live Application
 
-[![Live App](https://img.shields.io/badge/Live_App-Trading_System-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://trading-system-gnvcjp4j8kqekggfhwpfl2.streamlit.app)
+[![Live App](https://img.shields.io/badge/Live_App-Trading_System-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://automated-trading-system-dktfya65eabn6mnr7red8h.streamlit.app)
 
 ---
 
